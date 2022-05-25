@@ -32,6 +32,8 @@ Exempel 1:
 ## Hur det fungerar (Usage)
 
 ***bild***
+![image](https://user-images.githubusercontent.com/95740948/170231920-15db7b47-fe23-4a1f-8968-19c705ad5d16.png)
+
 
 ## Example (exempelkörning)
 
