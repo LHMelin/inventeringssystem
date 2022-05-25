@@ -42,6 +42,8 @@ Exempel på hur add_item funktionen fungerar:
 Körning av add item funktionen:
 
 ![image](https://user-images.githubusercontent.com/95740948/170239238-22b0350b-d0dd-4a2d-bcd9-fa3fbbc21c51.png)
+![image](https://user-images.githubusercontent.com/95740948/170239522-12d1589b-f026-49a5-bcf2-896d504f45ad.png)
+
 
 
 ## To do/Roadmap (Att göra/Plan)
