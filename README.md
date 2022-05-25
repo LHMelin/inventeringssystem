@@ -31,13 +31,18 @@ Exempel 1:
 
 ## Hur det fungerar (Usage)
 
-***bild***
-![image](https://user-images.githubusercontent.com/95740948/170231920-15db7b47-fe23-4a1f-8968-19c705ad5d16.png)
+Exempel på hur add_item funktionen fungerar:
+![image](https://user-images.githubusercontent.com/95740948/170238859-c0ebf26f-6ab9-464b-9b7d-9791e50483bc.png)
+![image](https://user-images.githubusercontent.com/95740948/170238939-7f928266-da04-47a1-9d6e-a85ffc638f28.png)
+
 
 
 ## Example (exempelkörning)
 
-***bild***
+Körning av add item funktionen:
+
+![image](https://user-images.githubusercontent.com/95740948/170239238-22b0350b-d0dd-4a2d-bcd9-fa3fbbc21c51.png)
+
 
 ## To do/Roadmap (Att göra/Plan)
 
