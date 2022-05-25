@@ -1,0 +1,5 @@
+food/milk/white/1/2
+car/audi/red/2/2
+motorcycle/yamaha/black/3/2
+car/bmw/white/4/6
+car/mercedes/black/5/6
